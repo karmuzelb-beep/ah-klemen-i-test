@@ -1,0 +1,21 @@
+{
+  "partnerName": "Avtohiša Klemenčič",
+  "partnerShortName": "AH Klemenčič",
+  "partnerTagline": "URADNI ZASTOPNIK OPREME MUZO VAN GEAR V SLOVENIJI ZA VOZILA FORD",
+  "vehicleBrands": [
+    "Ford"
+  ],
+  "country": "Slovenija",
+  "city": "",
+  "email": "kampiranja@ah-klemencic.si",
+  "phone": "070 000 000",
+  "address": "",
+  "muzoWebsite": "https://www.muzovangear.com/",
+  "defaultLanguage": "sl",
+  "enabledLanguages": [
+    "sl",
+    "en",
+    "de"
+  ],
+  "showDemoBanner": true
+}

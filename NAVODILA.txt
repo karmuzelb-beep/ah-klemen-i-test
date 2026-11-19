@@ -1,0 +1,1 @@
+NALOZI NA NETLIFY: ZIP razsiri. V Netlify > Deploys povleci celo mapo MUZO_DEALER_EXPERIENCE_V10_NETLIFY (z index.html, partner.json in images). Ne nalagaj samo index.html. Po objavi odpri stran v zasebnem oknu in preveri fotografije.
